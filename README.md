@@ -44,11 +44,12 @@ This project is a full-stack machine learning web application that recommends re
 ## Run Locally
 
 ### Backend
-
+```bash
 git clone https://github.com/The-Cow-addict/data-mining-project-backend.git
 cd data-mining-project-backend
 pip install -r requirements.txt
 uvicorn main:app --reload
+```
 
 ### Frontend
 
@@ -57,7 +58,7 @@ git clone https://github.com/The-Cow-addict/data-mining-project.git
 cd data-mining-project
 npm install
 npm run dev
-
+```
 
 ### Sample Visualizations
 - Ratings distribution
