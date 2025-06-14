@@ -1,12 +1,6 @@
 # Food-Recipe-Recommender-System
 This project is a full-stack machine learning web application that recommends recipes based on user interactions and preferences. It uses a hybrid filtering approach combining content-based and collaborative filtering techniques to suggest food recipes.
 
-<div align="center">
-  🔗 <a href="https://data-mining-project-eight.vercel.app/">Live Demo</a> | 
-  💻 <a href="https://github.com/The-Cow-addict/data-mining-project">Frontend GitHub</a> | 
-  🔧 <a href="https://github.com/The-Cow-addict/data-mining-project-backend">Backend GitHub</a>
-</div>
-
 ## Dataset
 
 - **Source**: [Kaggle - Food.com Recipes and User Interactions](https://www.kaggle.com/datasets/shuyangli94/food-com-recipes-and-user-interactions)
@@ -33,7 +27,7 @@ This project is a full-stack machine learning web application that recommends re
 ### Hybrid System
 - Combines content and collaborative scores for more accurate results
 
-## 🚀 Deployment
+## Deployment
 
 - **Frontend**: React.js (deployed on Vercel)
   - [Frontend GitHub Repository](https://github.com/The-Cow-addict/data-mining-project)
